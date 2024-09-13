@@ -1,0 +1,1 @@
+tensorboard --logdir="$(pwd)/tensorflow_logs" --port=6007

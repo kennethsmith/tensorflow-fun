@@ -1,0 +1,1 @@
+tensorboard --logdir=/tensorflow_logs --port=6006 --bind_all

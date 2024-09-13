@@ -1,0 +1,1 @@
+docker run -t -d --name tensorboard_6006 -p 6006:6006 --mount type=bind,src="$(pwd)/tensorflow_logs",target=/tensorflow_logs tensorboard:latest
