@@ -26,3 +26,6 @@ I used a bunch of shell scripts for various tasks. In general, the scripts are m
 * start.sh - Starts a Tensorboard Docker container.
 * stop.sh - Stops and deletes the Tensorboard Docker container.
 * test.sh - Starts a local Tensorboard server on port 6007.
+
+## High Level Design/Flow
+![plot](./tensorflow_fun.drawio.png)
